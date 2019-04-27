@@ -1,0 +1,9 @@
+{
+  "spotify-card": {
+    "updated_at": "2019-04-27",
+    "version": "1.4",
+    "remote_location": "https://cdn.jsdelivr.net/gh/custom-cards/spotify-card/dist/spotify-card.umd.js",
+    "visit_repo": "https://github.com/custom-cards/spotify-card",
+    "changelog": "https://github.com/custom-cards/spotify-card/releases"
+  }
+}
